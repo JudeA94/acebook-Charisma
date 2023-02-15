@@ -25,7 +25,7 @@ It's already possible for a user to:
 - View a list of posts
 ## Demo
 
-video/demo.mp4
+<iframe src="https://streamable.com/1eo3hi" frameborder="0" width="640" height="360" allowfullscreen></iframe>
 
 
 ## Architecture
