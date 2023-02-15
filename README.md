@@ -25,7 +25,7 @@ It's already possible for a user to:
 - View a list of posts
 ## Demo
 
-<div style="width: 100%; height: 0px; position: relative; padding-bottom: 56.250%;"><iframe src="https://streamable.com/e/1eo3hi" frameborder="0" width="100%" height="100%" allowfullscreen style="width: 100%; height: 100%; position: absolute;"></iframe></div>
+[![Demo]({image-url})]({[video-url](https://streamable.com/e/1eo3hi)} "Video Demo")
 
 ## Architecture
 
