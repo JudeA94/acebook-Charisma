@@ -25,7 +25,9 @@ It's already possible for a user to:
 - View a list of posts
 ## Demo
 
-[![Demo]({image-url})]({[video-url](https://streamable.com/e/1eo3hi)} "Video Demo")
+https://user-images.githubusercontent.com/113235574/219061899-925ddb0b-fa32-467b-922a-b42cc6630b61.mp4
+
+
 
 ## Architecture
 
