@@ -2,6 +2,20 @@
 
 In this project, we were tasked with working on an existing application. A significant part of the challenge was to familiarise ourselves with the codebase we inherited, and work to improve and extend it.
 
+## About this project
+Acebook is a web-app similar to Facebook and was built using the MERN stack. It allows users to: sign up and log in; view, create, like and comment on posts. You can also manage your friendslist by creating, rejecting and accepting friend requests as well as deleting friends. Finally, you can update your personal details and choose from a range of profile emojis to suit the user. This was a group project completed during week 8 and 9 of the Makers bootcamp.
+
+## Learnings from this project
+Through creating this app in a group environment, we improved our ability to:
+- Work and communicate effectively within a software development team
+- Break down projects into tasks and assign them to pairs
+- Use agile ceremonies to organise work into sprints and improve processes
+- Use a developer workflow to plan, implement and peer-review features
+- Build fullstack web applications using the MERN stack for the first time
+- Implement routes that interact with the MongoDB database provided to us
+- Update the user authentication to use bcrypt and validator
+- Build out the entirety of the frontend and styly it using react
+
 ## Existing Features
 
 It's already possible for a user to:
