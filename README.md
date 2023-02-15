@@ -25,8 +25,7 @@ It's already possible for a user to:
 - View a list of posts
 ## Demo
 
-[![Watch the video]](video/demo.mp4)
-
+video/demo.mp4
 
 
 ## Architecture
