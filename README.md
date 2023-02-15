@@ -17,8 +17,8 @@ This project was built using the MERN stack.
 ## Structure and Approach
 
 The initial planning diagram was as follows:
-<img width="1682" alt="Screenshot 2023-01-24 at 11 36 33" src="https://user-images.githubusercontent.com/113235574/214281854-50beaa05-f7c4-4c20-96cc-90d4c193cf2f.png">
-<img width="1682" alt="Screenshot 2023-01-24 at 11 36 33" src="https://user-images.githubusercontent.com/113235574/214281854-50beaa05-f7c4-4c20-96cc-90d4c193cf2f.png">
+<img width="1682" alt="Screenshot 2023-01-24 at 11 36 33" src="screenShots/navigation.png">
+<img width="1682" alt="Screenshot 2023-01-24 at 11 36 33" src="screenShots/pages.png">
 
 We approached the problem by first understanding the code provided to us. We then created user stories to break down the requirements into smaller, manageable tasks. We then mapped out what each page coud look like and how you ould get from one to another , creating the diagrams above.We then discussed our MVP to kick off our first sprint. We followed an agile process throughout the project with daily standups and retros after each sprint.
 
