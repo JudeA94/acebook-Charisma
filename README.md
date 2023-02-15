@@ -23,6 +23,11 @@ It's already possible for a user to:
 - Sign in
 - Sign out
 - View a list of posts
+## Demo
+
+[![Watch the video]](video/demo.mp4)
+
+
 
 ## Architecture
 
